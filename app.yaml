@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: tell-new-party
+package: smiletondi/tell-new-party
